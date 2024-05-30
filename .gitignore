@@ -362,5 +362,9 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python,windows,linux,macos
  
-./idea
+.idea\
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/Obsidian_auto_linking.iml
 .idea/vcs.xml
