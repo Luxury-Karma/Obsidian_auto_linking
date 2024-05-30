@@ -7,7 +7,9 @@ Now with one file you can create any link to any word you want and apply it onto
 Simple way to make it work is to create any text file possible (I usually just use the same .md as every other "text" file in the vault) 
 
 -o : start obsidian (on first launch you will need to indicate the emplacement of the .exe) 
+
 -v : directory of the vault to update 
+
 -t : path to the file where all the words are linked to all the links 
 
 the conf file update automatically to remember the last directory and link file you used. So once this is done if you do not change you can just launch the main without any options
