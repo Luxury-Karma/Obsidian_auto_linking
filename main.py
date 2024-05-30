@@ -16,7 +16,7 @@ def text_color(color_theme:str):
         'base': '\033[97m',  # white
         'ERROR': '\033[93m',  # yellow
         'backup': '\033[96m',  # cyan
-        'WARNING': '\033[92m'
+        'WARNING': '\033[92m'  # Green
     }
     try:
         return color_dict[color_theme]
